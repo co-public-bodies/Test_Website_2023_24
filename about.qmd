@@ -1,0 +1,9 @@
+---
+title: "About 2023/24"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

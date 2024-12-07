@@ -1,0 +1,16 @@
+---
+title: "Test Website 2023/24"
+description: "Test Website Placeholder for 2023-24 Publication"
+toc-location: right
+date: last-modified
+date-format: "**DD-MM-YYYY**"
+author: "Test"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
